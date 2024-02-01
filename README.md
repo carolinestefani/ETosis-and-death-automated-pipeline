@@ -1,4 +1,4 @@
-# ETosis-and-death-automated-pipeline
+# Automated ETosis and death quantification in invertebrates 
 
 # Description
 This is a semi-automated pipeline to quantify simultaneously the percentage of cells undergoing ETosis and cell death. 
